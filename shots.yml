@@ -1,3 +1,6 @@
 - url: https://news.ycombinator.com/
-  output: shot.png
+  output: hackernews.png
+  height: 800
+- url: https://simonwillison.net/
+  output: simonwillison.png
   height: 800
